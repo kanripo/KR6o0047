@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 尼乾子問無我義經
+#+DATE: 2015-08-30 20:59:47.930181
+#+PROPERTY: JUAN 0
