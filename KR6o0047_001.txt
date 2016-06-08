@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:47.730951
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:51
 #+TITLE: 尼乾子問無我義經
 #+PROPERTY: CBETA_ID T32n1643
 #+PROPERTY: ID KR6o0047
@@ -161,7 +161,7 @@ No.1643¶
 　時彼外道眾
 　聞已生歡喜¶
 　善觀察除疑
-　得悟大乘智
+　得悟大乘智」
 #+END_VERSE
-」¶
+¶
 尼乾子問無我義經
