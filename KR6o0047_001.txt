@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:47.730951
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:51
 #+TITLE: 尼乾子問無我義經
 #+PROPERTY: CBETA_ID T32n1643
 #+PROPERTY: ID KR6o0047
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1643
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0047_T_000-0172a>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0047_T_001-0172a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1643¶
-
- 尼乾子問無我義經¶
+No. 1643¶
+尼乾子問無我義經¶
 ¶
 馬鳴菩薩集¶
 西天譯經三藏朝散大夫¶
@@ -74,7 +73,7 @@ No.1643¶
 　相續而不斷¶
 　由不達勝義
 　則無滅苦要¶
-　展轉受輪迴
+　展轉受輪回
 　如蠶自纏縛
 <pb:KR6o0047_T_001-0172c>¶
 　亦如於日月
@@ -118,7 +117,7 @@ No.1643¶
 　非形色顯色
 　是菩提心相¶
 　非色非光明
-　非動非纏縛¶
+　世動非纏縛¶
 　非住如虛空
 　是菩提心相¶
 　離思惟觀察
@@ -161,7 +160,7 @@ No.1643¶
 　時彼外道眾
 　聞已生歡喜¶
 　善觀察除疑
-　得悟大乘智
+　得悟大乘智」
 #+END_VERSE
-」¶
+¶
 尼乾子問無我義經
